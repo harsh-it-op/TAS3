@@ -1,4 +1,3 @@
-# TASK3
 # Python Math Operations Repository
 
 This repository contains two Python programs that demonstrate mathematical operations:
